@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\CalculatingAverages\bin\Debug\CalculatingAverages.exe.config
+C:\Users\jorge\source\repos\CalculatingAverages\bin\Debug\CalculatingAverages.exe
+C:\Users\jorge\source\repos\CalculatingAverages\bin\Debug\CalculatingAverages.pdb
+C:\Users\jorge\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.exe
+C:\Users\jorge\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.pdb
+\\DEVICE\Users\jorge\source\repos\CalculatingAverages\bin\Debug\CalculatingAverages.exe.config
+\\DEVICE\Users\jorge\source\repos\CalculatingAverages\bin\Debug\CalculatingAverages.exe
+\\DEVICE\Users\jorge\source\repos\CalculatingAverages\bin\Debug\CalculatingAverages.pdb
+\\DEVICE\Users\jorge\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.csproj.CoreCompileInputs.cache
+\\DEVICE\Users\jorge\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.exe
+\\DEVICE\Users\jorge\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.pdb
+\\DEVICE\Users\jorge\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.csprojAssemblyReference.cache
